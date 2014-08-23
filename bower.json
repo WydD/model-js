@@ -1,0 +1,13 @@
+{
+    "name": "model-js",
+    "version": "1.0.0",
+    "main": "dist/model.js",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "*.md",
+        "src",
+        "Gruntfile.js",
+        "package.json"
+    ]
+}
